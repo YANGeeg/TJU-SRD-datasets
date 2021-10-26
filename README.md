@@ -5,10 +5,10 @@ EEG datasets for stereogram recognition of Tianjin University, China
 SRDA and SRDB are two EEG based stereogram recognition datasets, which contain 24 dynamic random dot stereograms (DRDS) with three categories of different parallax. The two databases are mainly different from SRDA, which adopts high-contrast DRDS, and SRDB, which adopts low-contrast DRDS. These graphics are presented on the 3D display in the form of DRDS videos. Subjects recognize different types of stereograms when wearing 3D glasses.
 
 1.2 The experimental paradigm:
-
+![Alt text](/paradigm.png)
  
 1.3 The collection process of EEG signals
- 
+ ![Alt text](/process.png)
 
 More details can be found in：
 Shen Lili, Dong Xinxin. Analysis and classification of hybrid EEG features based on the depth DRDS videos[J]. Journal of Neuroscience Methods, 2020, 338:1-8.
@@ -39,4 +39,4 @@ I will not make any part of this database available to a third party.
 I'll not sell any part of this database or make any profit from its use.
 
 (3) Content Preview：
- 
+ ![Alt text](/content.png)
