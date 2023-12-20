@@ -40,3 +40,8 @@ I'll not sell any part of this database or make any profit from its use.
 
 (3) Content Preview：
  ![Alt text](/content.png)
+
+
+Please cite our paper if you use our dataset in your own work:
+[1]Lili Shen, Mingyang Sun, Qunxia Li,et.al.  Multiscale Temporal Self-Attention and Dynamical Graph Convolution Hybrid Network for EEG-Based Stereogram Recognition, IEEE transaction on neural systems and rehabilitation engineering, 30,2022: 1191-1202.
+[2]Lili Shen, Xinxin Dong. Analysis and classification of hybrid EEG features based on the depth DRDS videos[J]. Journal of Neuroscience Methods, 2020, 338:1-8.
